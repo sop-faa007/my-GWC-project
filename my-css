@@ -1,0 +1,22 @@
+h1 {
+  font-size: 38px;
+  color: turquoise;
+}
+
+h2 {
+  font-size: 22px;
+  color: black;
+}
+
+img {
+  max-width: 25%;
+  height: auto;
+}
+
+#first_border {
+  border: 4px solid pink;
+}
+
+#second_border {
+  border: 4px solid pink;
+}
